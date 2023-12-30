@@ -2,7 +2,7 @@
 
 Welcome to my repo!
 ---------------------
-we bring new idea 💡 for developers Tweaks📱 or Themes 🗯 or Tools ⚒️ some developers don’t have repo or time to create new one to upload hes tweaks or anything for Cydia so today will give you a chance to upload your tweaks or themes or tools to our repo Cydia for free without change anything .
+This source only support Bootstrap .
 &nbsp;
 
 Email - tweaksdev22@gmail.com
@@ -17,7 +17,7 @@ Reddit - [/u/TweaksDev22/](https://www.reddit.com/r/TweaksDev22/)
 
 | Version | Supported          |
 | ------- | ------------------ |
-|  15.x   | :white_check_mark: |
+|  15.x - 17.x  | :white_check_mark: |
 
 
 
@@ -28,5 +28,5 @@ Reddit - [/u/TweaksDev22/](https://www.reddit.com/r/TweaksDev22/)
 
 | Jailbreak | Supported          |
 | ------- | ------------------ |
-| Dopamine roothide  | :white_check_mark: |
+| Boostrap roothide  | :white_check_mark: |
 -----------
